@@ -1,0 +1,23 @@
+{
+  "name": "sharp-something-wrong",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkrnl/sharp-something-wrong.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dkrnl/sharp-something-wrong/issues"
+  },
+  "homepage": "https://github.com/dkrnl/sharp-something-wrong#readme",
+  "dependencies": {
+    "favicons": "^6.2.2",
+    "sharp": "^0.29.1"
+  }
+}
